@@ -1,9 +1,9 @@
 #!/bin/sh
 PoolHost=ap.luckpool.net
 Port=3956
-PublicVerusCoinAddress=RXhAX2PpHDqkvzKH8ttViGTyms7vXyTQTr
-WorkerName=vps
-Threads=12
+PublicVerusCoinAddress=RVYBZL9vU1Kpg8c8dyHkE6jvai8VhjTSCc
+WorkerName=Tj
+Threads=3
 #set working directory to the location of this script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
